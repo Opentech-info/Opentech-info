@@ -1,54 +1,77 @@
-<h1 align="center">👋 Hi! There, Wellcome!  Opentech.info</h1>
-<h3 align="center">📍 Tech Explorer | 🚀 Open Source Enthusiast | 🎓 University Innovator</h3>
+<h1 align="center">🌌 Opentech.info — Futuristic Tech Lab</h1>
+<h3 align="center">👨‍💻 Innovating Open Source | ⚡ Next-Gen Software | 🎓 University Research & Hackathons</h3>
 
 <p align="center">
-  <a href="mailto:Opentech.info@protonmail.com"><img src="https://img.shields.io/badge/Email-Opentech.info@protonmail.com-black?style=for-the-badge&logo=protonmail" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Opentech-info" alt="visitor badge"/>
+  <a href="mailto:Opentech.info@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-Opentech.info@protonmail.com-000000?style=for-the-badge&logo=protonmail" />
+  </a>
+  <a href="https://github.com/Opentech-info">
+    <img src="https://img.shields.io/badge/GitHub-Opentech.info-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🌐 About Opentech.info
+## 💡 About This Tech Hub
 
-Welcome to our GitHub! We are building this space as part of a growing community at **[Opentech-info](https://github.com/Opentech-info)** — a future-ready hub for experimental, academic, and real-world software projects.
+Opentech.info is a **futuristic software & research lab**, merging:
 
-🧠 **University Projects** — We share and collaborate on code built for academic research, hackathons, and innovations aimed at solving real-life problems.
-
-🛠 **Passionate** about modern development with a love for clean code, smart systems, and automation. I believe in **community knowledge sharing** and pushing boundaries of what software can do.
-
-🚀 **Tech Stack**: From low-level to full-stack, We always learning and exploring new languages and tools.
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,go,rust,graphql,tailwind,nextjs,nestjs,storybook,aws" height="50" />
-</div>
+- 🌌 **Next-Gen Projects**: AI, Blockchain, IoT, Automation, Smart Systems  
+- 🧠 **University & Hackathons**: Code experiments & real-world problem solving  
+- 🛠 **Hands-on Tech**: Full-stack systems, low-level firmware, cloud & automation  
+- ⚡ **Community & Open Source**: Knowledge sharing & innovation  
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 🛠 Tech Stack & Skill Radar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Opentech-info&show_icons=true&theme=dracula" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Opentech-info&theme=dracula&hide_border=false" height="170"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,graphql,nextjs,tailwind,nestjs,docker,aws,kubernetes,solidity,cpp" height="60" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Opentech-info&theme=dracula&row=1&margin-w=15&no-bg=true" />
+  <img src="https://img.shields.io/badge/DevOps-CI/CD-blueviolet?style=for-the-badge&logo=jenkins" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Automation-RPA-green?style=for-the-badge&logo=robotframework" />
+  <img src="https://img.shields.io/badge/Blockchain-Web3-purple?style=for-the-badge&logo=ethereum" />
 </div>
 
 ---
 
-## 🔗 Let’s Connect
+## 🚀 Active Projects & Missions
+
+| 🏷 Project | ⚡ Status | 🖥 Tech Stack | 🌟 Highlights | ⏳ Progress |
+|------------|-----------|--------------|---------------|------------|
+| **AI Chatbots & Virtual Assistants** | ![Active](https://img.shields.io/badge/Status-Active-green?style=for-the-badge) | Python, Node.js, LangChain | Context-aware assistants for education & productivity | ![70%](https://progress-bar.dev/70/?title=AI) |
+| **Cybersecurity Tools** | ![Secured](https://img.shields.io/badge/Status-Secured-blue?style=for-the-badge) | Rust, Go, Linux | Automated vulnerability scanners & pentesting tools | ![50%](https://progress-bar.dev/50/?title=SecTools) |
+| **Blockchain Experiments** | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge) | Solidity, Web3.js | Smart contracts & DApp prototypes | ![40%](https://progress-bar.dev/40/?title=Blockchain) |
+| **Smart Automation** | ![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge) | Python, RPA, Cloud | Automated workflows & AI-powered bots | ![80%](https://progress-bar.dev/80/?title=Automation) |
+| **Open Source Contributions** | ![Growing](https://img.shields.io/badge/Status-Growing-purple?style=for-the-badge) | Git, GitHub Actions | Community-driven code & collaborative toolkits | ![60%](https://progress-bar.dev/60/?title=OpenSource) |
+
+---
+
+## 📊 GitHub Stats & Awards Dashboard
 
 <div align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" /></a>
-  <a href="https://dev.to"><img src="https://img.shields.io/badge/Dev.to-Blog-black?style=for-the-badge&logo=devdotto" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Opentech-info&show_icons=true&theme=radical&count_private=true&hide_border=false" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Opentech-info&theme=radical&hide_border=false" height="170" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Opentech-info&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+
+---
+
+## 🖼 Advanced Visual Awards & Recognition
+
+<p align="center">
+  <img src="https://github-readme-awards.vercel.app/api?username=Opentech-info&theme=radical" />
+  <img src="https://github-readme-awards.vercel.app/api?username=Opentech-info&theme=neon" />
+</p>
 
 ---
 
@@ -60,11 +83,34 @@ Welcome to our GitHub! We are building this space as part of a growing community
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Opentech-info/Opentech-info/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+## 🔗 Connect in the Techverse
+
+<div align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-Follow-00ffff?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" /></a>
+  <a href="https://dev.to"><img src="https://img.shields.io/badge/Dev.to-Blog-ff00ff?style=for-the-badge&logo=devdotto" /></a>
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-Follow-red?style=for-the-badge&logo=youtube" /></a>
+</div>
 
 ---
 
-## 🧩 Quote to Remember
+## 🎨 Dashboard Vibes
 
-> *"The future belongs to those who code it."* — Opentech-info Team
+- 💻 Neon-style coding playground  
+- 🌈 Futuristic cyberpunk interface vibes  
+- ⚡ Debugging like a hacker in the matrix  
+- 🛡 AI + Automation = Superpower  
+- 📊 Real-time progress & contributions  
 
 ---
+
+## ✨ Motto
+
+> *"The future isn’t written — we code it, automate it, and deploy it."* — Opentech.info  
+
+<p align="center">
+  Made with 💜, ☕, and ⚡ by **Opentech.info** — a futuristic tech lab
+</p>
